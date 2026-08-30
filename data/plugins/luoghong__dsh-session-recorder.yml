@@ -1,0 +1,6 @@
+url: https://github.com/luoghong/dsh-session-recorder
+name: luoghong/dsh-session-recorder
+category: session
+description:
+  en: 'Auto-record DSH conversations as Markdown files — one file per session, kept up to date automatically, with one click to open the save folder in your OS file manager.'
+  zh: '自动把 DSH 会话对话记录为 Markdown 文件：每会话一个文件、实时更新、一键在系统文件管理器中打开保存目录。'
